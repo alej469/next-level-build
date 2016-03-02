@@ -16,3 +16,11 @@
 * BEM/Object Orientated CSS
 * DRY
 
+## Software Used
+* Windows 10 + Powershell (Yes, indeed!)
+* Sublime Text 3 (With Emmet)
+* Adobe Photoshop CC
+* Adobe Illustrator CC
+* WinSCP
+* SoundCloud (for artistic encouragement!)
+
